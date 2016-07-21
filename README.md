@@ -2,6 +2,7 @@
 A simple clone of the famous game 2048 in python.
   
 Beta version - lacks animation but functional
+
 Features to add/fix:
 save/load
 undo(with regard to block functionality)
