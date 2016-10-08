@@ -1,14 +1,14 @@
 # dithyramb
 A simple clone of the famous game 2048 in python.
 
-Features to add/fix:
-Animation
+Features to add/fix: 
+Animation, 
 Save/load, 
-Moving blocks
-Multithreading
+Moving blocks, 
+Multithreading,
 
-Next version:
+Next version: 
 Execute in windows
 
-Final version:
+Final version: 
 Run in Android
