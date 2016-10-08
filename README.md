@@ -12,3 +12,6 @@ Execute in windows
 
 Final version: 
 Run in Android
+
+
+Runs with 2048.py, requires PyGame.
