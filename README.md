@@ -1,4 +1,3 @@
-# dithyramb
 A simple clone of the famous game 2048 in python.
 
 Features to add/fix: 
