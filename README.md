@@ -1,16 +1,11 @@
 A simple clone of the famous game 2048 in python.
 
 Features to add/fix: 
-Animation, 
-Save/load, 
-Moving blocks, 
-Multithreading,
+Sliding animation for moving tiles, 
+Saving and loading states, 
+Multithreading if necessary
 
-Next version: 
-Execute in windows
+End game:
+Android port
 
-Final version: 
-Run in Android
-
-
-Runs with 2048.py, requires PyGame.
+Runs when you execute 2048.py script, user must have PyGame installed
